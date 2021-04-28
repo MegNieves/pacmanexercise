@@ -7,7 +7,7 @@
 GitHub Pages
 Step 1: Select Settings Step 2: Select Pages Step 3: Within the drop down menu in Source Section, Select Main Step 4: Click save
 
-This repository was crafted to showcase the solution for the coding assignment in Week 7. This is a webpage that showcase PacMen. This project can be viewed via https://megnieves.github.io/pacmanexercise/ As of now potential changes may involve a clash of worlds.. Perhaps PacMan meets Mario 
+This repository was crafted to showcase the solution for the coding assignment in Week 7. This is a webpage that showcase PacMen. This project can be viewed via https://megnieves.github.io/pacmanexercise/ As of now potential changes may involve a clash of worlds.. Perhaps PacMan meets Mario. I would also love to incorporate the Ghosts from PacMan as a fun surprise.
 Within this repository are files necessary to manipulate the movements of PacMen across the screen. After I was done with this project I learned how to successfully create PacMen with a click of a button and allow them to move at their own pace. 
 
 
